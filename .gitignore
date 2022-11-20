@@ -456,4 +456,4 @@ $RECYCLE.BIN/
 ##
 ## Additional
 ##
-appsettings.Development.json
+/appsettings.Development.json
